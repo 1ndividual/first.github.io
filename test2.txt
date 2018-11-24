@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>미니웹사이트</title>
+		<meta charset="utf-8" />
+
+	</head>
+
+	<body>
+		<h1>안녕하세요.</hl>
+			<p>제가 만든 웹사이트입니다. 예쁘게 봐주세요.</p>
+			<p>오늘은 CSS 스타일 적용하는 방법을 알아보고 있답니다.</p>
+		<h2>메뉴바만들기<h2>
+			<ul>
+				<li><a href="index.html">Base</a></li>
+				<li><a href="inline.html">Inline CSS</a></li>
+				<li><a href="embedded.html">Embdeed CSS</a></li>
+				<li><a href="external.html">External CSS</a></li>
+			</ul>
+	</body>
+
+
+</html>
